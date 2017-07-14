@@ -28,6 +28,7 @@ This project uses React.js to fetch your starred GitHub repos with the API: <i>h
 <h4><b>Please Note:</b></h4> I did not use the style library <i>SCSS</i> or <i>Styled Components</i> during the development of this challenge although I did read that it was recommended or mentioned in the description.
 
 <br/>
+<br/>
 <h3>Resources:</h3>
 <ul>
    <li><i>https://facebook.github.io/react/tutorial/tutorial.html</i></li>
