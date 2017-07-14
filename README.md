@@ -4,7 +4,7 @@
 **//
 
 Prerequisites: 
-•	Download and install the latest version of node.js (https://nodejs.org/en/)
+•	D<h1>ownload</h1> and install the latest version of node.js (https://nodejs.org/en/)
 •	Install React.js using node.js with command prompt (npm install -g create-react-app)
 •	Install jquery using node.js with command prompt (npm install jquery --save)
 
