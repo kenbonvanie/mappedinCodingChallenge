@@ -25,7 +25,6 @@ This project uses React.js to fetch your starred GitHub repos with the API: <i>h
 <li>To run the program type in “<i>npm start</i>” in the command prompt to start the server.<br/><br/></li>
 
 </ol>
-<br/>
 <h4><b>Please Note:</b></h4> I did not use the style library <i>SCSS</i> or <i>Styled Components</i> during the development of this challenge although I did read that it was recommended or mentioned in the description.
 
 <br/>
