@@ -5,24 +5,24 @@
 
 <h2>Prerequisites:</h2>
 <ul>
-   <li>Download and install the latest version of node.js (https://nodejs.org/en/)</li>
-   <li>Install React.js using node.js with command prompt (npm install -g create-react-app)</li>
-   <li>Install jquery using node.js with command prompt (npm install jquery --save)</li>
+   <li>Download and install the latest version of node.js (<i>https://nodejs.org/en/</i>)</li>
+   <li>Install React.js using node.js with command prompt (<i>npm install -g create-react-app</i>)</li>
+   <li>Install jquery using node.js with command prompt (<i>npm install jquery --save</i>)</li>
 </ul>
 <br/>
 
 <h2>Description:</h2>
-This project uses React.js to fetch your starred GitHub repos with the API: https://api.github.com/users/axiomaticdesign/starred and displays them. 
+This project uses React.js to fetch your starred GitHub repos with the API: <i>https://api.github.com/users/axiomaticdesign/starred</i> and displays them. 
 <br/>
 <br/>
 <ol>
-<li>The project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “npm install -g create-react-app” on the project’s file location. It may take some time for React.js to install (approx. 3mins)<br/><br/</li>
+<li>The project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “<i>npm install -g create-react-app</i>” on the project’s file location. It may take some time for React.js to install (approx. 3mins)<br/><br/</li>
 
-<li>install jquery by typing “npm install jquery –save”<br/><br/></li>
+<li>install jquery by typing “<i>npm install jquery –save</i>”<br/><br/></li>
 
-<li>download this repository, unzip the zipfile, replace your project's generated files with the downloaded files (/public, /src, .gitinore, package.json) within your project folder so that the node_modules folder will correspond with the downloaded files<br/><br/></li>
+<li>download this repository, unzip the zipfile, replace your project's generated files with the downloaded files (<i>/public, /src, .gitinore, package.json</i>) within your project folder so that the node_modules folder will correspond with the downloaded files<br/><br/></li>
 
-<li>To run the program type in “npm start” in the command prompt to start the server.<br/><br/></li>
+<li>To run the program type in “<i>npm start</i>” in the command prompt to start the server.<br/><br/></li>
 
 </ol>
 <br/>
