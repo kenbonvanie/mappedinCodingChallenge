@@ -36,3 +36,7 @@ This project uses React.js to fetch your starred GitHub repos with the API: http
    <li>http://fontawesome.io/</li>
    <li>https://www.youtube.com/watch?v=A71aqufiNtQ&index=1&t=482s&list=FLjk1RqpA732FO3iKVjZl6tg</li>
 </ul>
+<br/><br/>
+
+please message me if you have any questions <a href="mailto:ken_92bon@hotmail.com">ken_92bon@hotmail.com</a>
+
