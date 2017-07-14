@@ -5,9 +5,6 @@ class Repos extends Component {
 	
 
   render() {
-	 
-	// fetch data:
-	//console.log(this.props);
 	
 	let repoItems;
 	if(this.props.repos){
