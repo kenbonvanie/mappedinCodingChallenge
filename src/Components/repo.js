@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-// import logo from './logo.svg';
-
 class Repo extends Component {
   render() {
 	  	  
