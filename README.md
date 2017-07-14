@@ -32,11 +32,11 @@ This project uses React.js to fetch your starred GitHub repos with the API: <i>h
 <br/>
 <h3>Resources:</h3>
 <ul>
-   <li>https://facebook.github.io/react/tutorial/tutorial.html</li>
-   <li>http://fontawesome.io/</li>
-   <li>https://www.youtube.com/watch?v=A71aqufiNtQ&index=1&t=482s&list=FLjk1RqpA732FO3iKVjZl6tg</li>
+   <li><i>https://facebook.github.io/react/tutorial/tutorial.html</i></li>
+   <li><i>http://fontawesome.io/</i></li>
+   <li><i>https://www.youtube.com/watch?v=A71aqufiNtQ&index=1&t=482s&list=FLjk1RqpA732FO3iKVjZl6tg</i></li>
 </ul>
 <br/><br/>
 
-please message me if you have any questions <a href="mailto:ken_92bon@hotmail.com">ken_92bon@hotmail.com</a>
+please message me if you have any questions <a href="mailto:ken_92bon@hotmail.com"><i>ken_92bon@hotmail.com</i></a>
 
