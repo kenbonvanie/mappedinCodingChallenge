@@ -12,7 +12,7 @@
 <br/>
 
 <h2>Description:</h2>
-This project uses React.js to fetch your starred GitHub repos with the API: <i>https://api.github.com/users/axiomaticdesign/starred</i> and displays them. 
+This project uses React.js to fetch starred GitHub repos with the API: <i>https://api.github.com/users/axiomaticdesign/starred</i> and displays them.
 <br/>
 <br/>
 <ol>
