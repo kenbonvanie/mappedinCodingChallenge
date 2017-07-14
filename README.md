@@ -16,13 +16,13 @@ This project uses React.js to fetch your starred GitHub repos with the API: http
 <br/>
 <br/>
 <ol>
-<li>The project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “npm install -g create-react-app” on the project’s file location. It may take some time for React.js to install (approx. 3mins)</li>
+<li>The project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “npm install -g create-react-app” on the project’s file location. It may take some time for React.js to install (approx. 3mins)<br/></li>
 
-<li>install jquery by typing “npm install jquery –save”</li>
+<li>install jquery by typing “npm install jquery –save”<br/></li>
 
-<li>download this repository and unzip it in your project folder and replace it in the correct folder so that the node_modules folder will correspond with the downloaded files</li>
+<li>download this repository and unzip it in your project folder and replace it in the correct folder so that the node_modules folder will correspond with the downloaded files<br/></li>
 
-<li>To run the program you’re going to have to type in “npm start” to start the server.</li>
+<li>To run the program you’re going to have to type in “npm start” to start the server.<br/></li>
 
 </ol>
 <br/>
