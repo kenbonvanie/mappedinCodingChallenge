@@ -16,13 +16,13 @@ This project uses React.js to fetch starred GitHub repos with the API: <i>https:
 <br/>
 <br/>
 <ol>
-<li>The project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “<i>npm install -g create-react-app</i>” on the project’s file location. It may take some time for React.js to install (approx. 3mins)<br/><br/</li>
+<li>the project runs by first installing node.js. Next, you’ll need to install React.js by opening the command prompt and typing in “<i>npm install -g create-react-app</i>” on the project’s file location. It may take some time for React.js to install (approx. 3mins)<br/><br/</li>
 
 <li>install jquery by typing “<i>npm install jquery –save</i>”<br/><br/></li>
 
 <li>download this repository, unzip the zipfile, replace your project's generated files with the downloaded files (<i>/public, /src, .gitinore, package.json</i>) within your project folder so that the node_modules folder will correspond with the downloaded files<br/><br/></li>
 
-<li>To run the program type in “<i>npm start</i>” in the command prompt to start the server.<br/><br/></li>
+<li>run the program by typing in “<i>npm start</i>” in the command prompt to start the server.<br/><br/></li>
 
 </ol>
 <h4><b>Please Note:</b></h4> I did not use the style library <i>SCSS</i> or <i>Styled Components</i> during the development of this challenge although I did read that it was recommended or mentioned in the description.
