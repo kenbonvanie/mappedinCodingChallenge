@@ -20,7 +20,7 @@ This project uses React.js to fetch your starred GitHub repos with the API: http
 
 <li>install jquery by typing “npm install jquery –save”<br/><br/></li>
 
-<li>download this repository, unzip the zipfile, replace your project's generated files with the downloaded files within your project folder so that the node_modules folder will correspond with the downloaded files<br/><br/></li>
+<li>download this repository, unzip the zipfile, replace your project's generated files with the downloaded files (/public, /src, .gitinore, package.json) within your project folder so that the node_modules folder will correspond with the downloaded files<br/><br/></li>
 
 <li>To run the program type in “npm start” in the command prompt to start the server.<br/><br/></li>
 
