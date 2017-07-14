@@ -26,9 +26,8 @@ This project uses React.js to fetch your starred GitHub repos with the API: <i>h
 
 </ol>
 <br/>
-<br/>
-<h4><b>Please Note:</b></h4> I did not use the style library SCSS or Styled Components during the development of this challenge although I did read that it was recommended or mentioned in the description.
-<br/>
+<h4><b>Please Note:</b></h4> I did not use the style library <i>SCSS</i> or <i>Styled Components</i> during the development of this challenge although I did read that it was recommended or mentioned in the description.
+
 <br/>
 <h3>Resources:</h3>
 <ul>
